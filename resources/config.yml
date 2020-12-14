@@ -1,0 +1,18 @@
+# Main configuration file for EnchantAddon by TPE.
+
+# The amount each rarity of enchant is tinkered for.
+
+# Custom Enchants (PiggyCE required).
+common-xp-amount: 50
+uncommon-xp-amount: 150
+rare-xp-amount: 250
+mythic-xp-amount: 500
+
+# Vanilla enchants
+vanilla-xp-amount: 175
+
+no-perms-message: "§cYou do not have permission to use that command!"
+no-enchats-message: "§cThe item in your hand has no enchants on!"
+
+# Use {PROFIT} for the amount of XP gained via tinkering.
+successfully-tinkered: "§aSuccessfully tinkered all tinkerable enchants on the item in your hand, you gain §b{PROFIT} §aXP!"

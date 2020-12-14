@@ -1,0 +1,9 @@
+name: EnchantAddon
+api: 3.0.0
+author: TPE
+version: 1.0.0
+main: TPE\EnchantAddon\EnchantAddon
+
+permissions:
+  tinkerer.command:
+    default: true
